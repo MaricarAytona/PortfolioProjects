@@ -8,8 +8,11 @@
 * Provided a data-driven understanding of the impact of COVID-19 on global mortality and case rates.
 
 #[Project 2: Bike Sales Dashboard](https://github.com/MaricarAytona/PortfolioProjects/tree/main/Bike%20Sales%20Dashboard)
+
+<img src="Bike Sales Dashboard/Bike Sales Dashboard.jpg" width=390>
+
 * Bike Sales Dashboard is an innovative analytics tool custom built in Excel to analyze essential patterns in sales data.
-* The dashboard includes three significant graphs- average income of purchase, customer age bracket, and customer commute.
+* The dashboard includes three significant graphs (average income of purchase, customer age bracket, and customer commute).
 * Customer Age Bracket graph determines which age bracket purchases bicyles the most.
 * Customer Commute graph shows the customers average travel distance when commuting distance via bike.
 * Average Income of Purchase graph shows the income range of customers who buys bikes.
